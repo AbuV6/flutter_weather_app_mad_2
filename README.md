@@ -1,16 +1,48 @@
-# college_project
+---
 
-A new Flutter project.
+````markdown
+# 🌤 Flutter Weather App
 
-## Getting Started
+A clean and simple Flutter app to fetch and display weather data for any city.
 
-This project is a starting point for a Flutter application.
+## 🚀 Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+Follow these steps to run the project locally:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 1. Clone the repository
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/AbuV6/flutter_weather_app_mad_2.git
+cd flutter_weather_app_mad_2
+````
+
+### 2. Run the app
+
+```bash
+flutter run
+```
+
+> 💡 When prompted, select **Chrome** or your preferred device.
+
+---
+
+That's it! The app will launch in your browser or emulator, allowing you to search for cities and view live weather data.
+
+## 🧪 Features
+
+* 🔍 City search
+* 📡 Real-time weather data from wttr.in
+* 💧 Temperature, humidity, wind info
+* ⚡ Responsive UI with cards and loading indicators
+
+## 📦 Requirements
+
+* [Flutter SDK](https://flutter.dev/docs/get-started/install)
+* Chrome or a mobile emulator
+
+---
+
+Made with 💙 using Flutter
+
+```
+```
